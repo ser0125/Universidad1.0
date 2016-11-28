@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\NpcDialogue.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Menu.cs" Line="28" Column="2" />
+      <File FileName="Assets\Scripts\NextCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PreviousCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Play.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Exit.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SelectCharacter.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Control.cs" Line="23" Column="3" />
+      <File FileName="Assets\Scripts\ThirdPersonCamera.cs" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\Animation.cs" Line="15" Column="1" />
+      <File FileName="Assets\Scripts\NpcDialogue.cs" Line="37" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
